@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&family=Bangers&family=Cookie&family=Imperial+Script&family=Nunito:ital@1&family=Oooh+Baby&family=Poppins&family=Roboto+Slab&family=Satisfy&family=Ubuntu:ital,wght@1,700&display=swap');
+
+*{
+    text-transform: capitalize;
+    box-sizing: border-box;
+}
+body{
+    background-color:lightyellow;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 25px;
+}
+
+#headline{
+    font-size: 25px;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+}
+footer{
+    background-color: rgb(82, 80, 80);
+    margin-top: 100px;
+    display: flex;
+    font-family: 'Roboto Slab', serif;
+    justify-content: center;
+    padding: 20px 0px;
+    font-weight: bold;
+    color: gainsboro;
+
+}
+#creator{
+    font-weight: 50;
+    font-family: 'Nunito', sans-serif;
+
+}
